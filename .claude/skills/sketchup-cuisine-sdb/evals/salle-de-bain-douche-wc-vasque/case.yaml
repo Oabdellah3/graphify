@@ -1,7 +1,8 @@
 schema_version: "1.1"
 name: salle-de-bain-douche-wc-vasque
 expected_outcome: |
-  Un .skp d'une salle de bain 240 × 200 cm avec douche 120 × 90 dans un angle, WC avec 60 cm de
+  Un script Ruby (l'utilisateur est sur SketchUp 2019, le .skp du connecteur ne s'ouvrirait pas)
+  d'une salle de bain 240 × 200 cm avec douche 120 × 90 dans un angle, WC avec 60 cm de
   dégagement devant et ~35–40 cm de chaque côté de son axe, meuble double vasque de 120 cm avec
   deux mitigeurs, et lave-linge 60 × 60 placé hors du balayage de la porte — ou, si tout ne rentre
   pas avec les dégagements, une réponse qui le dit clairement et propose ce qu'il faut sacrifier

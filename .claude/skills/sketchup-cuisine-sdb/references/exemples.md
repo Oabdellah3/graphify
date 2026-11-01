@@ -1,7 +1,10 @@
 # Exemples validés sur le connecteur
 
-Les deux scénarios ci-dessous ont été exécutés tels quels (toolkit collé en tête du `build_model`,
-`clean: true`), sans erreur, et sauvegardés. Les vignettes sont dans `../assets/`.
+Les deux scénarios ci-dessous ont été exécutés tels quels sur le connecteur (toolkit Python collé en
+tête du `build_model`, `clean: true`), sans erreur, et sauvegardés ; les vignettes sont dans
+`../assets/`. Leurs équivalents Ruby, prêts à charger dans SketchUp Desktop, sont
+`../scripts/exemple_cuisine_L.rb` et `../scripts/exemple_salle_de_bain.rb` (validés avec
+`../scripts/smoke_test.rb`).
 
 ## Cuisine en L, 360 × 300 × 250 — fenêtre au fond, porte sur le mur avant
 
