@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: cuisine-en-l-fenetre-au-fond
+expected_outcome: |
+  Un modèle SketchUp sauvegardé (.skp, lien de téléchargement) d'une cuisine en L dans une pièce
+  360 × 300 × 250 cm : ligne du fond avec l'évier centré sous la fenêtre (fenêtre à ~130–230 cm,
+  allège 110), lave-vaisselle collé à l'évier, ligne latérale avec colonne four et frigo en bout,
+  meubles hauts partout sauf devant la fenêtre, hotte au-dessus de la plaque. La réponse donne la
+  nomenclature mur par mur en cm (largeurs qui totalisent la longueur des murs), les hypothèses
+  prises (position exacte de la porte, hauteur de plan 90 cm) et propose des ajustements.

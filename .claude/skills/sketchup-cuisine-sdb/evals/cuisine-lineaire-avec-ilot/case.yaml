@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: cuisine-lineaire-avec-ilot
+expected_outcome: |
+  Un .skp avec une ligne de meubles de 450 cm sur le mur du fond (colonnes frigo et four en bout,
+  évier + lave-vaisselle), un îlot d'environ 200 × 100 cm avec plaque, à 110–120 cm du plan du fond,
+  plan de travail à 92 cm (KIT modifié, pas 90), façades vertes et plan bois (palette modifiée ou
+  entrées existantes), hotte au-dessus de l'îlot ou mention explicite de son absence. La réponse
+  explique le dégagement autour de l'îlot et fournit la vue 3/4 ; une vue intérieure (camera_interieure)
+  est posée en dernier ou proposée en seconde sauvegarde.
